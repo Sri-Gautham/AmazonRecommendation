@@ -1,2 +1,2 @@
-# DM-AmazonRecommendation
+# AmazonRecommendation
 Comparison of Recommendation Systems on Amazon Review DataSet
